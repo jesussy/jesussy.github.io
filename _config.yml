@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
-title: Teufel Lab Homemape
-description: Work in progress!
+lsi: false
+safe: true
+source: /(root)
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
